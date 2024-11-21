@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'adivinha',
+    'por que a mulher se casa de brnco?',
+    'pra combinar com o fogão e a pia'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'adivimha',
+    'oq fazer quando a mulher apimentar a relação?',
+    'passar pimenta na pika'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'adivinhe',
+    'por que não existe flor preta?',
+    'Flores totalmente pretas não existem na natureza porque os pigmentos das flores não produzem a cor preta pura. As flores mais escuras, como lírios ou rosas negras, são na verdade tons muito escuros de roxo, vermelho ou marro'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'adivinhe',
+    'por que o homem jogou o relogio pela janela?',
+    'pra ver o tempo voar'
 )
